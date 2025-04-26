@@ -1,6 +1,6 @@
 # Ai_for_hacking
 
-That os here to show the power of AI in hackng
+That is here to show the power of AI in hackng
 
 Change the opeaai api key == your key 
 
